@@ -9,7 +9,7 @@ public class ConditionalIfOnly {
 
 		Scanner scan = new Scanner(System.in);
 	    System.out.println("Enter your score please ");
-
+	    System.out.println("Enter your score please ");
 	    int score = scan.nextInt();
 
 	    if(score > 100 || score < 0){
