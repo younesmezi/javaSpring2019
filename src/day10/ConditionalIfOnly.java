@@ -36,6 +36,7 @@ public class ConditionalIfOnly {
 	//    
 //	    if (score < 70) {
 //	      System.out.println(" study Harder !!");
+	    System.out.println("hello github");
 //	    }
 	}
 
