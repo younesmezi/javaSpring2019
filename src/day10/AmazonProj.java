@@ -3,7 +3,7 @@ package day10;
 import java.util.Scanner;
 
 public class AmazonProj {
-
+//test for github (pull)
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
